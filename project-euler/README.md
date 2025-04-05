@@ -1,0 +1,1 @@
+This folder contains my solutions to the first 100 problems from Project Euler. They are all coded in Python without modules. I tried to avoid using hypotheses I wasn't sure about, and detailing my thought process.
