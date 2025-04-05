@@ -1,0 +1,6 @@
+Valide : Au moins une hypothèse par case, pas de doublon
+
+resol_facile(s)
+Si la solution est valide et complète  : ok
+Si la solution est valide et pas complète : On prend la 1ere case non remplie, on choisit une hypothese, on l'ajoute à la pile, appel récursif
+Si la solution n'est pas valide : on dépile, on en fait une nouvelle, appel récursif
