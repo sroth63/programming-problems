@@ -2,4 +2,4 @@ This folder contains my solutions to the first 100 problems from [Project Euler]
 
 I have also solved a few more problems, but I'm not allowed to share them publicly.
 
-<img src="https://projecteuler.net/profile/castorhash.png">
+<img src="https://projecteuler.net/profile/SaschaRoth.png">
